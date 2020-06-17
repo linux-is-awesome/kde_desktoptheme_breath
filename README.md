@@ -1,1 +1,1 @@
-# Breath theme for KDE desktop
+# Breeze10 theme for KDE desktop

@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Breath Dark
+Name=Breeze 10 Dark
 Comment=
 X-KDE-PluginInfo-Author=
 X-KDE-PluginInfo-Email=
-X-KDE-PluginInfo-Name=BreathDark
+X-KDE-PluginInfo-Name=breeze10-dark
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=
@@ -13,4 +13,4 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 [Settings]
-FallbackTheme=Breath
+FallbackTheme=breeze10

@@ -2,5 +2,5 @@
 #!/bin/sh
 
 # remove theme's folders
-rm -rf /usr/share/plasma/desktoptheme/Breath
-rm -rf /usr/share/plasma/desktoptheme/BreathDark
+rm -rf /usr/share/plasma/desktoptheme/breeze10
+rm -rf /usr/share/plasma/desktoptheme/breeze10-dark

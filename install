@@ -6,5 +6,5 @@
 ./uninstall
 
 # copy theme's folders
-cp -rf ./Breath /usr/share/plasma/desktoptheme/
-cp -rf ./BreathDark /usr/share/plasma/desktoptheme/
+cp -rf ./breeze10 /usr/share/plasma/desktoptheme/
+cp -rf ./breeze10-dark /usr/share/plasma/desktoptheme/

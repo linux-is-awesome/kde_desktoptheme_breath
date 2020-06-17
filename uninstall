@@ -1,0 +1,6 @@
+# this script requires root access
+#!/bin/sh
+
+# remove theme's folders
+rm -rf /usr/share/plasma/desktoptheme/Breath
+rm -rf /usr/share/plasma/desktoptheme/BreathDark

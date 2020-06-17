@@ -1,0 +1,10 @@
+# this script requires root access
+#!/bin/sh
+
+# uninstall theme before installing it again
+# we do this to completely refresh content of the folders
+./uninstall
+
+# copy theme's folders
+cp -rf ./Breath /usr/share/plasma/desktoptheme/
+cp -rf ./BreathDark /usr/share/plasma/desktoptheme/

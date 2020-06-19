@@ -1,5 +1,5 @@
-# this script requires root access
 #!/bin/sh
+# this script requires root access
 
 # uninstall theme before installing it again
 # we do this to completely refresh content of the folders

@@ -1,5 +1,5 @@
-# this script requires root access
 #!/bin/sh
+# this script requires root access
 
 # remove theme's folders
 rm -rf /usr/share/plasma/desktoptheme/breeze10

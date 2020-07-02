@@ -8,3 +8,7 @@
 # copy theme's folders
 cp -rf ./breeze10 /usr/share/plasma/desktoptheme/
 cp -rf ./breeze10-dark /usr/share/plasma/desktoptheme/
+
+# create links
+ln -s /usr/share/plasma/desktoptheme/breeze10/icons /usr/share/plasma/desktoptheme/breeze10-dark/icons
+ln -s /usr/share/plasma/desktoptheme/breeze10/widgets /usr/share/plasma/desktoptheme/breeze10-dark/widgets
